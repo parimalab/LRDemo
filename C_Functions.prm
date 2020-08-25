@@ -1,0 +1,10 @@
+[parameter:IterationNumber]
+Format="%d"
+OriginalValue="iteration"
+ParamName="IterationNumber"
+Type="CurrentIteration"
+[parameter:VuserID]
+Format="%s"
+OriginalValue="user"
+ParamName="VuserID"
+Type="Userid"

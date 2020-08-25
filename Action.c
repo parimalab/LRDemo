@@ -1,5 +1,7 @@
 Action()
 {
+	/* revereted back*/
+	
 	int i,j;
 	/*i = atoi(lr_eval_string("{IterationNumber}"));
 	lr_output_message("i value is %d",i);
